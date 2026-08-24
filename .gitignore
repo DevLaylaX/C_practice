@@ -1,0 +1,12 @@
+*.o
+*.obj
+*.exe
+*.out
+*.ilk
+*.pdb
+.vs/
+.idea/
+*.user
+*.suo
+*.dSYM
+.vscode/
