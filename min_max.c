@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-void min_max( int a[], int len, int* min, int* max)
+void min_max( int a[], int len, int *min, int *max)
 {
     *min = *max = a[0];
     for(int i = 0; i < len; ++i){

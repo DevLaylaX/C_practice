@@ -4,7 +4,7 @@
 int main()
 {
     int n;
-    int* a;
+    int *a;
     int i;
     scanf("%d", &n);
     a = (int*)malloc(n*sizeof(int));
